@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_editar"
+        android:title="Editar" />
+    <item
+        android:id="@+id/menu_eliminar"
+        android:title="Eliminar" />
+    <item
+        android:id="@+id/menu_escuchar_audio"
+        android:title="Escuchar Audio" />
+</menu>
