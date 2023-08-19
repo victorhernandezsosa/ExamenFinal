@@ -202,7 +202,7 @@ public class MainActivity extends AppCompatActivity {
         descripcion.getText().clear();
         periodista.getText().clear();
         fecha.getText().clear();
-        imagen.setImageBitmap(null); 
+        imagen.setImageBitmap(null);
 
         imagenBytes = null;
         audioBytes = null;
